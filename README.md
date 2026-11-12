@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JeanD19
 - 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning React.js, Express.js, Next.js, and Typescript (Javascript technologies)
-- 💞️ I’m building full-stack projects outside of school (check out www.ratemydininghall.app)
 - 📫 How to reach me:  LinkedIn--> https://www.linkedin.com/in/jean-daniel-liwanga/ 
 
 <!---
